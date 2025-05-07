@@ -7,3 +7,6 @@ requests==2.31.0
 Pillow==9.5.0
 python-dotenv==1.0.1
 scipy==1.10.1
+streamlit
+streamlit-webrtc
+
